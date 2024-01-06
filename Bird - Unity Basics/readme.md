@@ -1,4 +1,5 @@
 ## [The Unity Tutorial For Complete Beginners - YouTube](https://www.youtube.com/watch?v=XtQMytORBmM)
+![The Unity Tutorial For Complete Beginners - 320x180](https://github.com/E1250/rl_ref/assets/24204104/c07cd5d6-3fbb-43cf-8893-b7a12f05c2eb)
 
 ## GameObject
 
@@ -10,7 +11,10 @@ ex. the bird, the pipes, the user interface, and the camera.
 
 
 
-in the **Hierarchy** as in the Pipe gameObject, *Top Pipe* is called here a child. you use this so you can controle and move parent and its children together.![94ea1217-bf5e-404d-ad49-7ea5aeb48b69](file:///C:/Users/lenovo/Pictures/Typedown/94ea1217-bf5e-404d-ad49-7ea5aeb48b69.png)
+in the **Hierarchy** as in the Pipe gameObject, *Top Pipe* is called here a child. you use this so you can controle and move parent and its children together.
+
+![94ea1217-bf5e-404d-ad49-7ea5aeb48b69](https://github.com/E1250/rl_ref/assets/24204104/97ca8cd8-0515-4aa8-b03f-303d605b3a72)
+
 
 ## Prefabricated GameObject (Prefabs)
 
