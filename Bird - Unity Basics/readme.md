@@ -19,5 +19,3 @@ in the **Hierarchy** as in the Pipe gameObject, *Top Pipe* is called here a chil
 ## Prefabricated GameObject (Prefabs)
 
 we will make `Pipe` parent as **prefab**, by copying it to the assets file, and delete it from **Hierarchy** in the left section.
-
-
